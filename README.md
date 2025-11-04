@@ -146,11 +146,3 @@ Yes, it mimics real human patterns and includes proxy rotation to maintain accou
 </p>
 
 
-
-
-
-
-
-
-
-ChatGPT ca
